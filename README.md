@@ -1,5 +1,11 @@
 # WooriFISA_1Week_Team
 
+|                                         Backend                                         |                                        Backend                                         |                                         Backend                                         |                                        Algorithm                                        |
+|:---------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------:|
+| <img src="https://avatars.githubusercontent.com/u/114637614?v=4" width=200px alt="오현두"> | <img src="https://avatars.githubusercontent.com/u/73707598?v=4" width=200px alt="유호준"> | <img src="https://avatars.githubusercontent.com/u/123963462?v=4" width=200px alt="어태규"> | <img src="https://avatars.githubusercontent.com/u/129478826?v=4" width=200px alt="윤원호"> |
+|                          [오현두](https://github.com/HyunDooBoo)                           |                           [유호준](https://github.com/wns5120)                            |                           [어태규](https://github.com/EOTAEGYU)                            |                          [윤원호](https://github.com/dnjsgh1204)                           |
+|                                           BE                                            |                                           BE                                           |                                           BE                                            |                                           AG                                            |
+
 ## 윤원호
 
 ### 첫인상
